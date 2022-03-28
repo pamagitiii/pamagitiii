@@ -1,10 +1,11 @@
 ### Hi there 👋
 **I'm looking for a job as a Trainee / Junior iOS Developer**
 
-### `Test projects`
+### `Тестовы задания`
 - **<a href="https://github.com/pamagitiii/TestDiary">Ежедневник на VIPER</a>**
+- - **<a href="https://github.com/pamagitiii/CFTNotes">Заметки на MVP + CoreData</a>**
 
-### `Learning projects`
+### `Учебные проекты`
 - **<a href="https://github.com/pamagitiii/ClientVK">My first MVC VK app</a>**
 - **<a href="https://github.com/pamagitiii/SideMenu">SideMenu</a>**
 
