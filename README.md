@@ -3,7 +3,7 @@
 
 ### `Тестовы задания`
 - **<a href="https://github.com/pamagitiii/TestDiary">Ежедневник на VIPER</a>**
-- - **<a href="https://github.com/pamagitiii/CFTNotes">Заметки на MVP + CoreData</a>**
+- **<a href="https://github.com/pamagitiii/CFTNotes">Заметки на MVP + CoreData</a>**
 
 ### `Учебные проекты`
 - **<a href="https://github.com/pamagitiii/ClientVK">My first MVC VK app</a>**
