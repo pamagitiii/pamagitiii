@@ -1,5 +1,5 @@
-### Hi there 👋
-**I'm looking for a job as a Trainee / Junior iOS Developer**
+### Привет 👋
+**Ищу работу на позиции Trainee / Junior iOS Developer**
 
 ### `Тестовы задания`
 - **<a href="https://github.com/pamagitiii/TestDiary">Ежедневник на VIPER + Realm + networking</a>**
@@ -10,8 +10,8 @@
 - **<a href="https://github.com/pamagitiii/ClientVK">My first MVC VK app</a>**
 - **<a href="https://github.com/pamagitiii/SideMenu">SideMenu</a>**
 
-### `Contacts`
+### `Контакты`
 - telegram: @pamagiti
 - tolik.nik97@gmail.com
 
-Studying Swift since October 2021
+Изучаю Swift с октября 2021
