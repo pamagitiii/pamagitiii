@@ -14,5 +14,3 @@
 ### `Контакты`
 - telegram: @pamagiti
 - tolik.nik97@gmail.com
-
-Изучаю Swift с октября 2021
