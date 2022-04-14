@@ -1,5 +1,4 @@
 ### Привет 👋
-**Ищу работу на позиции Junior iOS Developer**
 
 ### `Тестовы задания`
 - **<a href="https://github.com/pamagitiii/RickAndMortyTest">Персонажи "Rick and Morty" на MVP + Builder, DI, Network, Kingfisher, вёрстка по макету</a>**
