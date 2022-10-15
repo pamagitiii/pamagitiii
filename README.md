@@ -1,16 +1,12 @@
-### Привет 👋
+### Hello 👋
 
-### `Тестовы задания`
-- **<a href="https://github.com/pamagitiii/RickAndMortyTest">Персонажи "Rick and Morty" на MVP + Builder, DI, Network, Kingfisher, вёрстка по макету</a>**
-- **<a href="https://github.com/pamagitiii/TestDiary">Ежедневник на VIPER + Realm + Network (mock)</a>**
-- **<a href="https://github.com/pamagitiii/CFTNotes">Заметки на MVP + CoreData</a>**
-- **<a href="https://github.com/pamagitiii/CoctailsTest">Coctails word cloud на MVP + Alamofire + SnapKit</a>**
-- **<a href="https://github.com/pamagitiii/AudioMixerTest">Merge audio tracks with crossfade effect</a>**
+### `Test tasks`
+- **<a href="https://github.com/pamagitiii/RickAndMortyTest">"Rick and Morty characters" - MVP + Builder, DI, Network layer, Kingfisher, Auto Layout in code</a>**
+- **<a href="https://github.com/pamagitiii/TestDiary">"Diary" - VIPER + Module builder, Realm, Unit tests + Network (mock)</a>**
+- **<a href="https://github.com/pamagitiii/CFTNotes">"Notes" - MVP + CoreData</a>**
+- **<a href="https://github.com/pamagitiii/CoctailsTest">"Coctails word cloud" - MVP + Alamofire + SnapKit</a>**
+- **<a href="https://github.com/pamagitiii/AudioMixerTest">Merge audio tracks with crossfade effect - some practice with AVFoundation</a>**
 
-### `Учебные проекты`
-- **<a href="https://github.com/pamagitiii/ClientVK">My first MVC VK app</a>**
-- **<a href="https://github.com/pamagitiii/SideMenu">SideMenu</a>**
-
-### `Контакты`
+### `Text me!`
 - telegram: @pamagiti
 - tolik.nik97@gmail.com
